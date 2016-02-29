@@ -1,0 +1,28 @@
+name: Edgewater Natural Family Medicine
+favicon: null
+layout_spectrum: 0.36229667137376964
+typography_spectrum: 0.14562873193062842
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.9170518601313233
+  lightness: 0.07530816085636616
+  saturation: 0.25141227524727583
+  rhythmicContrast: 0.9227941068820655
+purpose: []
